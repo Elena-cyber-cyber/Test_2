@@ -11,7 +11,7 @@
 ##l = width / 2.0
 ##s = height / 3
 ##a = 1 + 2 * 5
-print(k, l, s, a)
+##print(k, l, s, a)
 tem = input('Tell the temperature in Celsius: ')
 y = float(tem)
 p = y *  2
